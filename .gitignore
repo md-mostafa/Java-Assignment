@@ -7,3 +7,4 @@ gradlew
 gradlew.bat
 hs_err_pid35298.log
 settings.gradle
+src/test
